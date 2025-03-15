@@ -22,3 +22,7 @@ Integration with SQLite Database:
 - Backup and Recovery: Implements backup and recovery mechanisms to prevent data loss and ensure system reliability.
 
 this is a desktop based application developed using Python , Tkinter(GUI) and SQLite(Database)
+
+follow thi link for demo
+
+https://www.linkedin.com/posts/parthugalmugale_visitormanagement-security-databaseintegration-activity-7160227030758797313-nweq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEo1A00B9G0NVZ7-pJJtSJ89EUuwCsosMtA
